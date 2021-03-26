@@ -44,6 +44,18 @@ You can see the training graphs in each of the models trainging folder:
 
 [Glass graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/glass%20classification/training/after%20training/training%20graph.pdf)
 
+### Dataset
+
+Because we built the dataset by ourselves we needed some tools, in the [Dataset tools](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/dataset%20tools) you can find the tools I wrote and used during the project, I will add links to the datasets we build in the future.
+
+### Model optimizations
+
+After we trained the models we wanted the program to run faster, We decided to make them better by using tensorflow lite.
+
+The optimization came out very good, you can see the performence improvement in [this excel file](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/program%20data.xlsx)
+
+You can also see the difference by running the 2 different main.py codes, the tf lite is placed in tf-lite/main.py and the tensorflow is placed in keras/main.py.
+
 ## Main files
 
 keras/main.py is using tensorflow models to make prediction, the predictions are displayed on a video window.
