@@ -21,9 +21,9 @@ We also tried to build and train our own SSD model for face detection but failed
 ### Models architectures
 
 ![Mask classifier architecture](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/mask%20classification/maskModel.png)
-![Gender classifier architecture](preperations/model\ training/keras/gender\ classification/genderModel.png?raw=true "Gender classifier")
-![Beard classifier architecture](preperations/model\ training/keras/beard\ classification/beardModel.png?raw=true "Mask classifier")
-![Glass classifier architecture](preperations/model\ training/keras/glass\ classification/glassModel.png?raw=true "Mask classifier")
+![Gender classifier architecture](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/gender%20classification/genderModel.png)
+![Beard classifier architecture](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/beard%20classification/beardModel.png)
+![Glass classifier architecture](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/glass%20classification/glassModel.png)
 
 ## Main files
 
