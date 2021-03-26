@@ -1,0 +1,6 @@
+#1 - loss: 0.0447 - categorical_accuracy: 0.9846
+#2 - loss: 0.0346 - categorical_accuracy: 0.9877
+#3 - loss: 0.0429 - categorical_accuracy: 0.9859
+#4 - loss: 0.0546 - categorical_accuracy: 0.9842
+
+https://wandb.ai/benjamin32561/glass-classification?workspace=user-benjamin32561

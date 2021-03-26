@@ -1,0 +1,1 @@
+loss: 0.0580 - binary_accuracy: 0.9844

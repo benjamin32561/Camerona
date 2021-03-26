@@ -1,0 +1,9 @@
+both on test set
+
+before optimizing lr 0.001
+loss: 0.002
+acc: 0.9997
+
+after optimizing lr 0.0001
+loss: 0.0018
+acc: 0.9997

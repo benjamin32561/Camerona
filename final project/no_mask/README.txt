@@ -1,0 +1,1 @@
+this folder contains the photos of all the people without mask

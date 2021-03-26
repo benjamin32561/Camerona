@@ -1,0 +1,11 @@
+before:
+
+sunglass: 583
+glass: 1106
+no: 1133
+
+after:
+
+sunglass: 6403
+glass: 12166
+no: 12463
