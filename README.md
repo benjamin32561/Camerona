@@ -42,7 +42,7 @@ You can see the training graphs in each of the models trainging folder:
 
 [Beard graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/beard%20classification/training/training%20results/training%20graph.pdf)
 
-[Glass graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/glass%20classification/training/training-results/training%20graph.pdf)
+[Glass graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/glass%20classification/training/after%20training/training%20graph.pdf)
 
 ## Main files
 
