@@ -36,13 +36,13 @@ The training took some time, I used [Weights & Biases](https://wandb.ai/site) to
 
 You can see the training graphs in each of the models trainging folder:
 
-[Mask graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/mask%20classification/training/training%20results/training%20graph.pdf)
+[Mask graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/mask%20classification/training/training%20results/training%20graph.pdf)
 
-[Gender graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/gender%20classification/training/training%20results/training%20graph.pdf)
+[Gender graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/gender%20classification/training/training%20results/training%20graph.pdf)
 
-[Beard graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/beard%20classification/training/training%20results/training%20graph.pdf)
+[Beard graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/beard%20classification/training/training%20results/training%20graph.pdf)
 
-[Glass graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/glass%20classification/training/training%20results/training%20graph.pdf)
+[Glass graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/glass%20classification/training/training%20results/training%20graph.pdf)
 
 
 
