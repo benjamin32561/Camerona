@@ -44,8 +44,6 @@ You can see the training graphs in each of the models trainging folder:
 
 [Glass graph](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/glass%20classification/training/training%20results/training%20graph.pdf)
 
-
-
 ## Main files
 
 keras/main.py is using tensorflow models to make prediction, the predictions are displayed on a video window.
