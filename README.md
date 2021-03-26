@@ -20,10 +20,10 @@ We also tried to build and train our own SSD model for face detection but failed
 
 ### Models architectures
 
-![Alt text](preperations/model\ training/keras/mask\ classification/maskModel.png?raw=true "Mask classifier")
-![Alt text](preperations/model\ training/keras/gender\ classification/genderModel.png?raw=true "Gender classifier")
-![Alt text](preperations/model\ training/keras/beard\ classification/beardModel.png?raw=true "Mask classifier")
-![Alt text](preperations/model\ training/keras/glass\ classification/glassModel.png?raw=true "Mask classifier")
+![Mask classifier architecture](preperations/model\ training/keras/mask\ classification/maskModel.png?raw=true "Mask classifier")
+![Gender classifier architecture](preperations/model\ training/keras/gender\ classification/genderModel.png?raw=true "Gender classifier")
+![Beard classifier architecture](preperations/model\ training/keras/beard\ classification/beardModel.png?raw=true "Mask classifier")
+![Glass classifier architecture](preperations/model\ training/keras/glass\ classification/glassModel.png?raw=true "Mask classifier")
 
 ## Main files
 
