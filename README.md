@@ -28,6 +28,14 @@ We also tried to build and train our own SSD model for face detection but failed
 
 ![Glass classifier architecture](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/glass%20classification/glassModel.png)
 
+As you can see the model are fairly simple, They have to be simple in order to avoid overfitting to the training data.
+
+### Training
+
+The training took some time, I used [Weights & Biases](https://wandb.ai/site) to track the training of each model.
+You can see the training graphs in each of the models trainging folder:
+Camerona/preperations/model training/keras/(beard\gender\mask\glass) classification/training/training results/training graph.pdf
+
 ## Main files
 
 keras/main.py is using tensorflow models to make prediction, the predictions are displayed on a video window.
