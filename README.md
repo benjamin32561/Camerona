@@ -6,7 +6,7 @@ Camerona - A combination of the words 'camera' and 'corona', this tool may help 
 
 ## Quick explanation
 
-The idea of the project is to find people who doesnt wear mask in a photo, extract data about them and then address them by asking to wear a mask using the data the progrm found about each person.
+The idea of the project is to find people who doesnt wear mask in a photo, extract data about them and then address them by asking them to wear a mask based on the data found about each person.
 
 ## Models
 Me and my partner built and trained our model by ourselves using tensorflow and data we found online.
@@ -37,6 +37,15 @@ The training took some time, I used [Weights & Biases](https://wandb.ai/site) to
 You can see the training graphs in each of the models trainging folder:
 
 Camerona/preperations/model training/keras/(beard\gender\mask\glass) classification/training/training results/training graph.pdf
+[Mask graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/mask%20classification/training/training%20results/training%20graph.pdf)
+
+[Gender graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/gender%20classification/training/training%20results/training%20graph.pdf)
+
+[Beard graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model training/keras/(beard\gender\mask\glass) classification/training/training results/training graph.pdf)
+
+[Glass graph](https://github.com/benjamin32561/Camerona/tree/master/preperations/model training/keras/(beard\gender\mask\glass) classification/training/training results/training graph.pdf)
+
+
 
 ## Main files
 
