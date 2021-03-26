@@ -33,7 +33,9 @@ As you can see the model are fairly simple, They have to be simple in order to a
 ### Training
 
 The training took some time, I used [Weights & Biases](https://wandb.ai/site) to track the training of each model.
+
 You can see the training graphs in each of the models trainging folder:
+
 Camerona/preperations/model training/keras/(beard\gender\mask\glass) classification/training/training results/training graph.pdf
 
 ## Main files
