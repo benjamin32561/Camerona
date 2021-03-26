@@ -1,14 +1,14 @@
 Couldnt import the git lab repo so I copied all the files into here... link to the git lab repo https://gitlab.com/benjamin32561/camerona.git
 
-# Camerona
+#Camerona#
 
 Camerona - A combination of the words 'camera' and 'corona', this tool may help with the enforcement of wearing masks during covid-19
 
-##Quick explanation
+##Quick explanation##
 
 The idea of the project is to find people who doesnt wear mask in a photo, extract data about them and then address them by asking to wear a mask using the data the progrm found about each person.
 
-##Models
+##Models##
 Me and my partner built and trained our model by ourselves using tensorflow and data we found online.
 we built 4 models:
 First model is being used to determine if the person is wearing a mask (Binary classification).
@@ -18,7 +18,7 @@ Fourth model is predicting if the person has sunglass, regular glasses or non at
 
 We also tried to build and train our own SSD model for face detection but failed.
 
-###Models architectures
+###Models architectures###
 
 ![Alt text](preperations/model\ training/keras/mask\ classification/maskModel.png?raw=true "Mask classifier")
 ![Alt text](preperations/model\ training/keras/gender\ classification/genderModel.png?raw=true "Gender classifier")
