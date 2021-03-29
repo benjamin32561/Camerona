@@ -9,6 +9,7 @@ class Coffe():
 		This method is the C'tor
 		input: minimum confidence to determine if something is a face
 		"""
+		tstamp = time()
 		prototxtPath = "models/face-detection-weights.prototxt"
 		weightsPath = "models/face-detection-model.caffemodel"
 		self.net = cv2.dnn.readNet(prototxtPath, weightsPath)

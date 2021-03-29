@@ -43,6 +43,7 @@ class Coffe():
 					end_point = (end_point[0], h)
 				face = img[start_point[1]:end_point[1], start_point[0]:end_point[0]]
 				face = cv2.resize(face, (64,64))/255
+				#face = np.array([face], dtype=np.float32)#changing the data to float32
 				#adding the person found to the people object
 				toRet.people.append(Person(start_point, end_point))
 				toRet.faces.append(face)

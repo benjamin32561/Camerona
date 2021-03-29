@@ -10,12 +10,10 @@ class Coffe():
 		input: minimum confidence to determine if something is a face
 		"""
 		tstamp = time()
-		print('\n\n[COFFE] loading...')
 		prototxtPath = "models/face-detection-weights.prototxt"
 		weightsPath = "models/face-detection-model.caffemodel"
 		self.net = cv2.dnn.readNet(prototxtPath, weightsPath)
 		self.conf_th = con_th
-		print('[COFFE] finished loading (%.4f sec)\n\n' % (time() - tstamp))
 
 	def detectFaces(self, img):
 		"""
