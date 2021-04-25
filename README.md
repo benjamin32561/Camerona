@@ -20,7 +20,7 @@ We also tried to build and train our own SSD model for face detection but failed
 
 ### Models architectures
 
-![Mask classifier architecture](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/mask%20classification/maskModel.png)
+![Mask classifier architecture](./preperations/model training/keras/mask classification/maskModel.png)
 
 ![Gender classifier architecture](https://github.com/benjamin32561/Camerona/tree/master/preperations/model%20training/keras/gender%20classification/genderModel.png)
 
