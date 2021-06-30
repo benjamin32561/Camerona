@@ -20,15 +20,14 @@ We also tried to build and train our own SSD model for face detection but failed
 
 ### Models architectures
 
-![Mask classifier architecture](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/mask%20classification/maskModel.png)
+Mask, Gender and beard architecture
+![Mask, Gender and beard architecture](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/mask%20classification/maskModel.png)
 
-![Gender classifier architecture](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/gender%20classification/genderModel.png)
-
-![Beard classifier architecture](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/beard%20classification/beardModel.png)
-
+Glass classifier architecture
 ![Glass classifier architecture](https://github.com/benjamin32561/Camerona/blob/master/preperations/model%20training/keras/glass%20classification/glassModel.png)
+last layer is 1x3 not 1x1!!!
 
-As you can see the model are fairly simple, They have to be simple in order to avoid overfitting to the training data.
+As you can see the model are fairly simple, They have to be simple in order to avoid overfitting of the training data.
 
 ### Training
 
@@ -58,6 +57,6 @@ You can also see the difference by running the 2 different main.py codes, the tf
 
 ## Main files
 
-keras/main.py is using tensorflow models to make prediction, the predictions are displayed on a video window.
-tf-lite/main.py is using tensorflow lite models to make prediction, the predictions are displayed on a video window.
-speakers/main.py is using the tensorflow lite models to predict and use the speakers to address some one.
+`keras/main.py` is using tensorflow models to make prediction, the predictions are displayed on a video window.
+`tf-lite/main.py` is using tensorflow lite models to make prediction, the predictions are displayed on a video window.
+`speakers/main.py` is using the tensorflow lite models to predict and use the speakers to address some one.
