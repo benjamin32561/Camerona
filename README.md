@@ -6,7 +6,7 @@ Camerona - A combination of the words 'camera' and 'corona', this tool may help 
 
 ## Quick explanation
 
-The idea of the project is to find people who doesnt wear mask in a photo, extract data about them and then address them by asking them to wear a mask based on the data found about each person.
+The idea of the project is to find people who doesnt wear mask in a photo, extract data about them and then ask them to wear a mask based on the data found about each person.
 
 ## Models
 Me and my partner built and trained our model by ourselves using tensorflow and data we found online.
